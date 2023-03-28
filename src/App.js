@@ -37,7 +37,7 @@ const App = () => {
       <div>
         <Navbar />
       </div>
-      <div className="">
+      <div >
 
       <div >
         <Filter filterData={filterData}
